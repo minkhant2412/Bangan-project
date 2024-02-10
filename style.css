@@ -1,0 +1,30 @@
+@media (max-width:810px){
+    .logo{
+        display: none;
+    }
+    .logo_text{
+        font-size: 50px;
+    }
+}
+.buttom_new{
+    margin-left: 40px;
+}
+.buttom_2{
+    margin-left: 5px;
+}
+.search{
+    margin-left: 500px;
+}
+.navbarcolor{
+    background: linear-gradient(80deg,rgba(0, 0, 255, 0.486),white);
+}
+.text1{
+    font-weight: bold;
+}
+.text2{
+    font-weight: bold;
+}
+.cardfooter{
+    background-color:rgba(0, 0, 0, 0.76);
+    color: white;
+}
